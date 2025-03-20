@@ -17,7 +17,7 @@ Languages - English (native), Italian (native)
 
 # Professional Experience
 
-**Flock, Data Scientist, London**
+**Flock, Senior Data Scientist, London**
 - Leading pricing Data Scientist, evolving Flock's pricing model through several successful iterations by drawing insights from tens of millions of historic driving data points via advanced analytical tools and modelling methods. Find new factors that correlate with crash frequnecy and Loss Ratio and feed them into the GLM (Generalised Linear Model).
 Enhanced the pricing models accuracy by improving APTP (actual price vs technical price), directly impacting pricing strategy for new business.
 - Spearheaded research into driving behaviours and crash frequency correlations, yielding critical insights that were fed into the model and helped inform fleet intervention strategies to reduce crash frequency for our customers.
